@@ -21,7 +21,7 @@
     "react-router-dom": "^5.0.0",
     "react-router-ga": "^1.2.0",
     "react-router-scroll-top": "^0.1.1",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-youtube-embed": "^1.0.2",
     "styled-components": "^4.2.0"
   },
@@ -48,9 +48,9 @@
   "devDependencies": {
     "@storybook/addon-actions": "^5.0.11",
     "@storybook/addon-links": "^5.0.11",
-    "@storybook/react": "^5.0.11",
+    "@storybook/react": "^9.1.1",
     "babel-eslint": "^10.0.1",
-    "eslint": "^5.16.0",
+    "eslint": "^9.32.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^4.2.0",
     "eslint-plugin-import": "^2.14.0",
